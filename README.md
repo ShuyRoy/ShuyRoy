@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rui Xu (许瑞)</h1>
 <h3 align="center">A Ph.D candidate from East China Normal University</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Linked in [https://www.linkedin.com/in/rui-xu-873405131] </h3>
 <p align="left">
 </p>
 
