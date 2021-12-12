@@ -8,3 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Research:</h3>
+<p align="left"> <a href="https://scholar.google.com.hk/citations?hl=zh-CN&view_op=list_works&gmla=AJsN-F7ODyBq4dNjvigoet3NSru25R8ych1LYab2NRyvAWx2TVP0_FEF8qzHaosu6CTFjZ26ZyawJS2i4FnJWu2rRJPK_sMc0hT_3PkbGZN45y_HcacLPxA&user=uMy8VLwAAAAJ" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" alt="c" width="40" height="40"/> </a> </p>
+
