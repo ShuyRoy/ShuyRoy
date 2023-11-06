@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rui Xu (许瑞)</h1>
-<h3 align="center">A Ph.D candidate from East China Normal University. The research is intrested in racetrack memory, NVM, loop optimization, compiler optimization.</h3>
+<h3 align="center">A postdoc from the City University of Hong Kong. She received her doctoral degree from East China Normal University in June 2023. The research is interested in racetrack memory, NVM, loop optimization, and compiler optimization.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
